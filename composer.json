@@ -23,7 +23,7 @@
     "require": {
         "php": ">=7.3.0",
         "ext-swoole": "^4.4.0",
-        "easyswoole/spl": "^2.0"
+        "easyswoole/spl": "^1.0 || ^2.0"
     },
     "require-dev": {
         "easyswoole/swoole-ide-helper": "^1.2",
